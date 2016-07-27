@@ -67,8 +67,5 @@
     }
     
     p.blocktext1 {
-        margin-left: auto;
-        margin-right: auto;
-        width: 25em;
-        line-height: 25px;
+        font-size: larger;
     }
