@@ -68,4 +68,9 @@
     
     p.blocktext1 {
         font-size: larger;
+         margin-left: auto;
+        margin-right: auto;
+        width: 25em;
+        line-height: 25px;
+        background-color: rgba(0, 0, 0, 0.5);
     }
