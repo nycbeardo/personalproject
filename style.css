@@ -77,7 +77,7 @@
         
    .ribbon {
    width: 372px;
-   position: center;
+   position: absolute;
    text-align: center;
    font-size: 13px!important;
    background: #1c1b1b;
