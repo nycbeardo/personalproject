@@ -79,6 +79,7 @@
    width: 272px;
    position: absolute;
    text-align: center;
+   float: right;
    font-size: 15px!important;
    background: #2e2626;
    background: -webkit-gradient(linear, left top, left bottom, from(#2e2626), to(#453f3f));
