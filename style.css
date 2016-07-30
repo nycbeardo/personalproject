@@ -11,6 +11,13 @@
         background-size: cover;
     }
     
+    #banner {
+    width: 960px;
+    background color: rgb(0,0,0,);
+    background-position: center;
+    height: 476px;}
+
+
     div.menubar {
         list-style-type: none;
         text-align: center;
