@@ -1,0 +1,96 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+     
+    
+
+    
+    body.Homebody {
+        background-image: url(images/Worldsfair643.jpg);
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+   
+
+
+    div.menubar {
+        list-style-type: none;
+        text-align: center;
+        overflow: hidden;
+        background-color: #333;
+        margin: 0;
+        padding: 0;
+        position: fixed;
+        top: 0;
+        left: 0;
+        font-family: 'Lato', sans-serif;
+        text-decoration: none;
+    }
+    
+    li {
+        float: left;
+    }
+    
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    /* link color changes to a blue on hover */
+    
+    li a:hover {
+        background-color: blue;
+    }
+    /* details behavior of links when active or not */
+    
+    li a:hover:not( .active) {
+        background-color: black;
+    }
+    
+    .active {
+        background-color: blue;
+    }
+    
+    div.content {
+        margin: 60px;
+        text-align: center;
+        font-family: 'Lato', sans-serif;
+        color: white;
+    }
+    
+    .blocktext {
+        margin-left: auto;
+        margin-right: auto;
+        width: 25em;
+        line-height: 25px;
+        background-color: rgba(0, 0, 0, 0.8);
+        border-radius: 10px;
+    }
+    
+    p.blocktext1 {
+        font-size: larger;
+         margin-left: auto;
+        margin-right: auto;
+        width: 20.7em;
+        line-height: 25px;
+        background-color: rgba(0, 0, 0, 0.8);
+        border-radius: 10px;
+    }
+
+    h1.titleline {
+        margin-left: auto;
+        margin-right: auto;
+        width: 10em;
+        line-height: 35px;
+        background-color: rgba(0, 0, 0, 0.8);
+        border-radius: 10px;
+        
+    }
+        
+ 
